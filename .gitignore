@@ -6,7 +6,7 @@ ipch/
 .vs/ProjectHobo/*
 .vs
 *.suo
-StreamArcade.VC.VC.opendb
-StreamArcade.VC.db
-StreamArcade.sln
+TestTask.VC.VC.opendb
+TestTask.VC.db
+TestTask.sln
 desktop.ini
